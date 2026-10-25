@@ -1,0 +1,10 @@
+{
+  "name": "總經理",
+  "description": "A teammate with its own computer that takes real work off your plate.",
+  "title": "",
+  "avatarShape": "blob",
+  "avatarColor": "black",
+  "namedBy": "user",
+  "harness": "temporal",
+  "_note": "serverId omitted from public backup"
+}
